@@ -1,0 +1,1 @@
+I was invited to participate the Google Foobar Challenge in October 2016. There are 5 levels of coding questions, 15 questions in total. Here are some of my thoughts on these questions.
