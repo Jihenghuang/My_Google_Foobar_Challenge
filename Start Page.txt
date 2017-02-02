@@ -1,0 +1,23 @@
+
+Mounting /home/guest...
+Welcome to foobar version 53-10-g85713ac-beta (2016-09-28-19:53+0000)
+
+Google has a code challenge ready for you.
+Been here before?
+
+
+This invitation will expire if you close this page.
+Success! You've managed to infiltrate Commander Lambda's evil organization, and finally earned yourself an entry-level position as a Minion on her space station. From here, you just might be able to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Problem is, Minions are the lowest of the low in the Lambda hierarchy. Better buck up and get working, or you'll never make it to the top...
+Mounting /home/jhuang346...
+Logged in as jhuang346. Last login: 2016-10-11-13:42+0000.
+You can now work on 2 challenges concurrently.
+
+There are a lot of difficult things about being undercover as Commander Lambda's personal assistant, but you have to say, the personal spa and private hot cocoa bar are pretty awesome.
+foobar:~/ jhuang346$ status
+Current level: 3. Challenges to complete level: 3.
+
+Level 1 100% [==========================================]
+Level 2 100% [==========================================]
+Level 3   0% [..........................................]
+Level 4   0% [..........................................]
+Level 5   0% [..........................................]
